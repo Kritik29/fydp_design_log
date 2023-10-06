@@ -27,7 +27,7 @@ The url is generated using the title of the `.md` file, so name the file accordi
 
 Add pictures right in the content folder. To help keep it organized, you should add __n-__ as a prefix, where n is a number. This will keep the structure of the content folder. Screenshots should be relevant to what is being described on the page.
 
-## 🔧 Configure
+## Configure
 
 Write markdown files in `content` folder.
 
