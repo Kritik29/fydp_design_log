@@ -72,13 +72,13 @@ export const ListItem = styled(({ className, active, level, ...props }) => {
     position: relative;
 
     &:hover {
-      color: #3110b3 !important;
+      color: #828282 !important;
     }
 
     ${props =>
       props.active &&
       `
-      color: #3110b3;
+      color: #828282;
       border-color: rgb(230,236,241) !important;
       border-style: solid none solid solid;
       border-width: 1px 0px 1px 1px;

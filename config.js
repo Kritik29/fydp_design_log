@@ -63,7 +63,7 @@ const config = {
       name: 'Gatsby Gitbook Starter',
       short_name: 'GitbookStarter',
       start_url: '/',
-      background_color: '#6b37bf',
+      background_color: '#fff',
       theme_color: '#6b37bf',
       display: 'standalone',
       crossOrigin: 'use-credentials',

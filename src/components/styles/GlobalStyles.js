@@ -76,7 +76,7 @@ export const baseStyles = css`
     border-radius: 1px;
     margin: 0 auto;
     margin-top: 4px;
-    background-color: #001934;
+    background-color: #fff;
   }
   .navBarToggle .iconBar:first-child {
     margin-top: 0px;
@@ -134,7 +134,7 @@ export const baseStyles = css`
 
   .navbar-default .navbar-toggle:focus,
   .navbar-default .navbar-toggle:hover {
-    background-color: #0f0726;
+    background-color: #444e44;
   }
 
   .headerWrapper {
@@ -257,7 +257,7 @@ export const baseStyles = css`
     padding: 0 !important;
   }
   .navBarDefault {
-    background-image: linear-gradient(to bottom left, #553cba, #0f0726);
+    background-image: linear-gradient(to bottom left, #444e44, #000);
     border-radius: 0;
     border-top: 0;
     margin-bottom: 0;
@@ -450,7 +450,7 @@ export const baseStyles = css`
   }
 
   .hideFrontLine .active > a {
-    background-color: #3110b3;
+    background-color: #828282;
     color: #fff !important;
   }
   .firstLevel ul li .collapser svg path {
@@ -470,7 +470,7 @@ export const baseStyles = css`
   }
 
   .sideBarUL .item > a {
-    color: #3110b3;
+    color: #828282;
     text-decoration: none;
     display: flex;
     align-items: center;
@@ -481,7 +481,7 @@ export const baseStyles = css`
   }
 
   .showFrontLine .item > a:hover {
-    background-color: #0f0726;
+    background-color: #444e44;
   }
 
   .showFrontLine .active > a {
@@ -508,7 +508,7 @@ export const baseStyles = css`
     border-color: rgb(230, 236, 241) !important;
     border-style: solid none solid solid;
     border-width: 1px 0px 1px 1px;
-    background-color: #3110b3 !important;
+    background-color: #444e44 !important;
     color: #fff;
   }
 
